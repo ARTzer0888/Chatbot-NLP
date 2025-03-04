@@ -42,7 +42,7 @@ pip install spacy
 
 #OUTPUT
 
-'''bash
+```bash
 Welcome to MyChatBot! I am DEADLOCK, Type 'quit' to exit.
 User: Hello
 Bot: Hi, how are you?
